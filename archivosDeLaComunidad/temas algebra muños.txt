@@ -1,0 +1,19 @@
+los toeremas de cauchy, lagrange y rolle. demostracion de limitez notables. los temas de integral definida (volumen solido de revolucion, longitud de una curva
+
+1- Potenciación y radicación de Nº complejos
+2- Propiedades de los determinantes
+3- Metodo de Chio
+4- Metodo de Cramer
+5- Plano formado por 3 puntos
+6- Distancia entre rectas alabeadas
+7- Asintotas de la hiperbola
+8- Propiedades de las transformaciones lineales
+9- Transformaciones lineales de Rn a Rm
+10- Cambio de base
+11- Ecuacion general de la recta
+12- Ecuacion general del plano
+13- Ecuacion de la recta que pasa por 2 puntos
+14- Producto mixto
+15- Hiperbola -----
+16-DIAGONALIZACION
+17- cofactores
